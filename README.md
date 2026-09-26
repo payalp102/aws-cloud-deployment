@@ -38,6 +38,7 @@ Amazon EC2
     v
 Live Website
 ````
+![AWS Cloud Deployment Architecture](architecture.png)
 
 ## ☁️ AWS Infrastructure
 
