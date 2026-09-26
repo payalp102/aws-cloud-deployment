@@ -234,4 +234,3 @@ Through this project, I gained hands-on experience with:
 * Add automated testing to the CI/CD pipeline
 
 ````
-
