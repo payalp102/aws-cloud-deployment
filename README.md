@@ -234,3 +234,14 @@ Through this project, I gained hands-on experience with:
 * Add automated testing to the CI/CD pipeline
 
 ````
+Add live website screenshot
+## 🌐 Live Website
+
+
+Add deployment screenshots
+
+![Live Website](project%20done.png)
+
+## 🔄 GitHub Actions Deployment
+
+![GitHub Actions Deployment](deploy.png)
